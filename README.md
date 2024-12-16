@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates a common error in recursive functions: infinite recursion due to improper handling of the base case.  The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version. The error arises when a negative number is passed to the factorial function, as the recursion never terminates.
